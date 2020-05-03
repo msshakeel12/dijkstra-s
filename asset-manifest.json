@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dijkstra-s/static/css/main.b8f93806.chunk.css",
+    "main.js": "/dijkstra-s/static/js/main.52ada59d.chunk.js",
+    "main.js.map": "/dijkstra-s/static/js/main.52ada59d.chunk.js.map",
+    "runtime-main.js": "/dijkstra-s/static/js/runtime-main.1c5070e4.js",
+    "runtime-main.js.map": "/dijkstra-s/static/js/runtime-main.1c5070e4.js.map",
+    "static/css/2.de424728.chunk.css": "/dijkstra-s/static/css/2.de424728.chunk.css",
+    "static/js/2.34eeab3c.chunk.js": "/dijkstra-s/static/js/2.34eeab3c.chunk.js",
+    "static/js/2.34eeab3c.chunk.js.map": "/dijkstra-s/static/js/2.34eeab3c.chunk.js.map",
+    "index.html": "/dijkstra-s/index.html",
+    "precache-manifest.3a714931af2f811a53d7f896a32626ea.js": "/dijkstra-s/precache-manifest.3a714931af2f811a53d7f896a32626ea.js",
+    "service-worker.js": "/dijkstra-s/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/dijkstra-s/static/css/2.de424728.chunk.css.map",
+    "static/css/main.b8f93806.chunk.css.map": "/dijkstra-s/static/css/main.b8f93806.chunk.css.map",
+    "static/js/2.34eeab3c.chunk.js.LICENSE.txt": "/dijkstra-s/static/js/2.34eeab3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c5070e4.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.34eeab3c.chunk.js",
+    "static/css/main.b8f93806.chunk.css",
+    "static/js/main.52ada59d.chunk.js"
+  ]
+}
